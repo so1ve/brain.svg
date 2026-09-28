@@ -1,0 +1,18 @@
+{
+  "name": "brain-svg",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "prettier": "^3.9.9",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  }
+}

@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.cache/
+artifacts/
+/data/
+__pycache__/
+.venv/
+
+# Local development environment
+/devenv.local.nix
+/.devenv/
+/.devenv.flake.nix
+/.direnv/
+/devenv.nix
+/devenv.yaml
+/devenv.lock
+/.envrc

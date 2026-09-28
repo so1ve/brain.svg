@@ -1,0 +1,3 @@
+# Keep generated model weights and the dependency lockfile compact.
+src/model/*.json
+package-lock.json
